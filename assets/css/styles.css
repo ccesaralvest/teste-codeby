@@ -83,7 +83,7 @@ p {
 }
 
 #miniCartTotal {
-    height: 214px;
+    min-height: 214px;
     border-bottom: solid 2px rgb(217, 217, 217);
     border-top: solid 2px rgb(217, 217, 217);
 }
